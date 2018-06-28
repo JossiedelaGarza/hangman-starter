@@ -2,7 +2,6 @@
 
 This repostiory contains a fully functional, barebones version of [hangman](https://en.wikipedia.org/wiki/Hangman_(game)) we can play in the browser. Take this starter code and explore the following possibilities:
 
-1. Add a stylesheet to the page and play with the game's design. You will likely need to edit the HTML to add classes and possibly reorganize the HTML to suit your needs.
 2. There is an intentionally unfixed bug in the gameplay right now regarding case sensitivity. See if you can identify the bug and figure out a fix!
 3. When the game ends the game should restart itself or give the player an option to restart the game. At the moment it just "stops" and the gameplay mechanics break. See if you can fix this!
 4. Add some copy to the site that elaborates on the rules for hangman using properly formatted HTML — lists, emphasized text, bold texts, hyperlinks, etc. You can look at the Wikipedia page linked to at the top and borrow their explanation of the rules.

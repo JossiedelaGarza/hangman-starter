@@ -44,9 +44,7 @@ function updateGameProgressAndReturnRevealed() {
   } else {
     console.log(revealed);
   }
-
-  // return the revealed letters to display elsewhere
-  return revealed.join('');
+  
 }
 
 // run once to update/initiate the board
@@ -80,5 +78,5 @@ submitGuess.addEventListener('click', () => {
 
   if (didLose) {
     alert(`You lost! Too bad. The word was: ${word}`);
-  }
+      }  
 });
